@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CallProcessing.Tests/CallProcessing.Tests.csproj" />
+  <Project Path="CallProcessing/CallProcessing.csproj" />
+</Solution>
